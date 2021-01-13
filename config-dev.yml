@@ -6,5 +6,5 @@ spring:
     name: hello
 
 config:
-  info: hhhhh
+  info: hello lk
 
