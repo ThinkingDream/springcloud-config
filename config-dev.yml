@@ -4,4 +4,5 @@ service:
 spring:
   application:
     name: hello
-username: lk
+config：
+  info：hhhhh
